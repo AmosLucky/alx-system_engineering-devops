@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | sed '1d' | head
+ls -t -1 | head
